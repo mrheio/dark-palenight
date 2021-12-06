@@ -1,0 +1,30 @@
+{
+    "name": "dark-palenight",
+    "displayName": "Dark Palenight",
+    "description": "A darker variation of the Palenight Italic theme",
+    "publisher": "drg",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "palenight",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Palenight-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DrgOv/dark-palenight-theme"
+    }
+}
